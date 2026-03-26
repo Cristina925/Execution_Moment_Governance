@@ -1,5 +1,7 @@
 # Execution-Moment Governance
 
+A governance gap at the moment systems act.
+
 Most governance frameworks focus on:
 
 - how systems are designed  
